@@ -30,8 +30,8 @@ If the city name is invalid, the app will display an error message.
 
 ## Screenshots
 
-![Screenshot 1](https://via.placeholder.com/350x600)
-![Screenshot 2](https://via.placeholder.com/350x600)
+![Screenshot 1](./weather-app/images/weather1.png)
+![Screenshot 2](./weather-app/images/weather2.png)
 
 ## Contributing
 
