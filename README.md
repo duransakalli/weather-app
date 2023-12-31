@@ -11,7 +11,7 @@ Please note that the weather app requires an active internet connection.
 ## Features
 
 - Search for a city to get its current weather
-- Error handling handling of invalid city names
+- Error handling of invalid city names
 - Responsive design for both desktop and mobile devices
 
 ## Usage
@@ -44,11 +44,7 @@ If you want to contribute to this project, please follow the following steps:
 5. Push your changes to the branch
 6. Create a pull request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - Thanks to [OpenWeatherMap](https://openweathermap.org/) for providing the weather data.
-- Thanks to [Placeholder.com](https://placeholder.com/) for the placeholder images.
